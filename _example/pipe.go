@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mattn/go-shellwords"
+	"github.com/jwayong/go-shellwords"
 )
 
 func isSpace(r byte) bool {

@@ -2,8 +2,8 @@
 
 [![codecov](https://codecov.io/gh/mattn/go-shellwords/branch/master/graph/badge.svg)](https://codecov.io/gh/mattn/go-shellwords)
 [![Build Status](https://travis-ci.org/mattn/go-shellwords.svg?branch=master)](https://travis-ci.org/mattn/go-shellwords)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/mattn/go-shellwords)](https://pkg.go.dev/github.com/mattn/go-shellwords)
-[![ci](https://github.com/mattn/go-shellwords/ci/badge.svg)](https://github.com/mattn/go-shellwords/actions)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/jwayong/go-shellwords)](https://pkg.go.dev/github.com/jwayong/go-shellwords)
+[![ci](https://github.com/jwayong/go-shellwords/ci/badge.svg)](https://github.com/jwayong/go-shellwords/actions)
 
 Parse line as shell words.
 
